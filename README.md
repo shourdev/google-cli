@@ -1,5 +1,5 @@
 # google-cli
-A useless cli to search in google 
+A useless cli to search in google. Which is useless xd
 # Usage
 ```sh
 python google-cli.py <textyouwanttosearch>
